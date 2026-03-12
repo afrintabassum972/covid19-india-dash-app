@@ -32,9 +32,9 @@ You can access the live dashboard here:
 ## 📂 Project Structure
 
 ```text
-├── screenshots/                # Dashboard preview images
-├── app.py                      # Main application code
-├── state_wise_daily data file IHHPET.csv # Pandemic statistics dataset
-├── requirements.txt            # Python dependencies
-├── Procfile                    # Deployment configuration for Render
-└── README.md                   # Project documentation
+├── screenshots/                
+├── app.py                     
+├── state_wise_daily data file IHHPET.csv 
+├── requirements.txt            
+├── Procfile                 
+└── README.md               
