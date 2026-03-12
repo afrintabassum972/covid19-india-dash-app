@@ -1,4 +1,4 @@
-🩺 COVID-19 India Smart Dashboard
+🩺  Coronavirus Pandemic Analysis Dashboard
 
 A data-driven interactive web application built with Dash and Plotly to monitor the COVID-19 landscape in India. This project translates raw data into actionable insights through dynamic visualizations.
 
